@@ -40,10 +40,15 @@ Gapstorm Router
 
 # Sourcing the C-Arc backbone
 
-* The backbone is laser cut from 8mm stainless steel and a link to https://justway.com will be added soon. Currently I don't have a project including files to create the threads and chamfer for the countersink screws. This needs to be done by hand. 
+* The backbone is laser cut from 8mm stainless steel. Currently I don't have a project including files to create the threads and chamfer for the countersink screws. This needs to be done by hand. Follow the link below to get to the justway project.
 </br>
 </br>
 
+[Stainless steel backbone from justway.com](https://www.justway.com/project/shareproject/G_EDM_Gapstorm_Wire_Module_Backbone_82de4ce1.html)
+
+
+</br>
+</br>
 
 # Tools required
 
