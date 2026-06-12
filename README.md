@@ -27,11 +27,15 @@ Gapstorm Router
 # The Files
 
 * The printed files for the wire module are located in the ./gapstorm-wire-module folder.
-* The full router is available via google drive. File is too large to upload directly on github. It contains the fully assembled router.
+* The full router is available via google drive. File is too large to upload directly on github. It contains the fully assembled router. Follow the link below for the FreeCAD project.
 </br>
 </br>
 
+[Download the G-EDM Gapstorm Router FreeCAD file](https://drive.google.com/file/d/1UKYZ6FvwNd2TUvjrRuUEfUdUrniMHqEN/view?usp=drive_link)
 
+
+</br>
+</br>
 
 
 # Sourcing the C-Arc backbone
