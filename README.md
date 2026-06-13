@@ -20,7 +20,9 @@ Gapstorm Router
 </br>
 
 [![PhantomEDM demo video](./images/1.jpg)](https://www.youtube.com/watch?v=hlrt1KqOiBo)
+</br>
 
+[![PhantomEDM demo video](./images/2.jpg)](https://www.youtube.com/watch?v=hlrt1KqOiBo)
 </br>
 </br>
 
