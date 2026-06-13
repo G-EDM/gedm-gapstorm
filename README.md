@@ -22,7 +22,7 @@ Gapstorm Router
 [![PhantomEDM demo video](./images/1.jpg)](https://www.youtube.com/watch?v=hlrt1KqOiBo)
 </br>
 
-[![PhantomEDM demo video](./images/2.jpg)](https://www.youtube.com/watch?v=hlrt1KqOiBo)
+<img src="./images/2.jpg" alt="tap dimensions" width="400" height="200">
 </br>
 </br>
 
