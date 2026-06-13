@@ -2,6 +2,7 @@
 </br>
 </br>
 
+
 ```diff
  ______     _______ ______  _______
 |  ____ ___ |______ |     \ |  |  |
@@ -10,6 +11,12 @@
 Gapstorm Router
 ```                                                               
 
+</br>
+</br>
+
+# FreeCAD project file
+
+[Download the G-EDM Gapstorm Router FreeCAD file](https://drive.google.com/file/d/1UKYZ6FvwNd2TUvjrRuUEfUdUrniMHqEN/view?usp=drive_link)
 </br>
 </br>
 
