@@ -54,11 +54,9 @@ Gapstorm Router
 * The backbone is laser cut from 8mm stainless steel. Currently there is no technical drawing to get the threads and chamfers for the countersink screws machined. This needs to be done by hand at the moment. Follow the link below to get to the justway project.
   
 </br>
-</br>
 
 [![Stainless steel backbone from justway.com](./images/justway_logo.jpg)](https://www.justway.com/project/shareproject/G_EDM_Gapstorm_Wire_Module_Backbone_82de4ce1.html)
 
-</br>
 </br>
 
 [Stainless steel backbone from justway.com](https://www.justway.com/project/shareproject/G_EDM_Gapstorm_Wire_Module_Backbone_82de4ce1.html)
