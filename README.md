@@ -56,10 +56,12 @@ Gapstorm Router
 </br>
 </br>
 
-[Stainless steel backbone from justway.com](https://www.justway.com/project/shareproject/G_EDM_Gapstorm_Wire_Module_Backbone_82de4ce1.html)
-</br>
-</br>
 [![Stainless steel backbone from justway.com](./images/justway_logo.jpg)](https://www.justway.com/project/shareproject/G_EDM_Gapstorm_Wire_Module_Backbone_82de4ce1.html)
+
+</br>
+</br>
+
+[Stainless steel backbone from justway.com](https://www.justway.com/project/shareproject/G_EDM_Gapstorm_Wire_Module_Backbone_82de4ce1.html)
 
 
 
