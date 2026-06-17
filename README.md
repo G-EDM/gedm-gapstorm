@@ -67,7 +67,7 @@ Gapstorm Router
 See this image for reference:
 </br></br>
 
-<img src="./images/justwayorder.png" alt="tap dimensions" width="700" height="auto">
+<img src="./images/justwayorder.png" alt="tap dimensions" width="auto" height="auto">
 
 
 
