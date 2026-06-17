@@ -50,7 +50,9 @@ Gapstorm Router
 
 # Sourcing the C-Arc backbone
 
-* Thanks to Justway.com for sponsoring the backbone prototype. Wouldn't have finished it anytime soon without their help. They provide different manufacturing services from CNC machining to 3D printing and even wire edm for those that don't have a running G-EDM at home. Ordering is very straight forward but they have a friendly customer service that will provide help if there are any questions.
+* Thanks to Justway.com for sponsoring the backbone prototype. Wouldn't have finished it anytime soon without their help.
+
+* They provide different manufacturing services from CNC machining to 3D printing, injection molding and even wire edm for those that don't have a running G-EDM at home. Ordering is straight forward and they have a friendly customer service that will provide help if there are any questions. For this specific part is is only required to select the material (stainless steel 316/316L), the wanted surface finish and the product description for custom declaration. Surface finish is up to the user. I just went with the cheapest they offer but they do have others to. Black oxide could be a very nice option for parts exposed to an EDM environment.
   
 * The backbone is laser cut from 8mm stainless steel. Currently there is no technical drawing to get the threads and chamfers for the countersink screws machined. This needs to be done by hand at the moment. Follow the link below to get to the justway project.
 
@@ -61,6 +63,10 @@ Gapstorm Router
 
 [Stainless steel backbone from justway.com](https://www.justway.com/project/shareproject/G_EDM_Gapstorm_Wire_Module_Backbone_82de4ce1.html)
 
+</br>
+This is how it should look:
+</br>
+<img src="./images/justwayorder.png" alt="tap dimensions" width="400" height="auto">
 
 
 
