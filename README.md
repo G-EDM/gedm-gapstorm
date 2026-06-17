@@ -50,7 +50,7 @@ Gapstorm Router
 
 # Sourcing the C-Arc backbone
 
-* Thanks to Justway.com for sponsoring the backbone prototype. Wouldn't have finished it anytime soon without their help. They provide different manufacturing services from CNC machining to 3D printing and even wire edm for those that don't have a running G-EDM at home. 
+* Thanks to Justway.com for sponsoring the backbone prototype. Wouldn't have finished it anytime soon without their help. They provide different manufacturing services from CNC machining to 3D printing and even wire edm for those that don't have a running G-EDM at home. Ordering is very straight forward but they have a friendly customer service that will provide help if there are any questions.
   
 * The backbone is laser cut from 8mm stainless steel. Currently there is no technical drawing to get the threads and chamfers for the countersink screws machined. This needs to be done by hand at the moment. Follow the link below to get to the justway project.
 
