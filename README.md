@@ -64,9 +64,10 @@ Gapstorm Router
 [Stainless steel backbone from justway.com](https://www.justway.com/project/shareproject/G_EDM_Gapstorm_Wire_Module_Backbone_82de4ce1.html)
 
 </br>
-This is how it should look:
-</br>
-<img src="./images/justwayorder.png" alt="tap dimensions" width="400" height="auto">
+See this image for reference:
+</br></br>
+
+<img src="./images/justwayorder.png" alt="tap dimensions" width="700" height="auto">
 
 
 
