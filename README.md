@@ -109,7 +109,7 @@ See this image for reference:
 Portal:
 </br>
 
-<img src="./images/justwayorder.png" alt="portal plate technical drawing" width="700px" height="auto">
+<img src="./images/gapstorm-portal-techdrawing.jpg" alt="portal plate technical drawing" width="700px" height="auto">
 
 </br>
 </br>
