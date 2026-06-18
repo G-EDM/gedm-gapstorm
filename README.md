@@ -106,7 +106,7 @@ See this image for reference:
 
 # Technical drawings
 
-Portal:
+Portal (Aluminum):
 </br>
 
 <img src="./images/gapstorm-portal-techdrawing.jpg" alt="portal plate technical drawing" width="700px" height="auto">
