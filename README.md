@@ -67,7 +67,7 @@ Gapstorm Router
 See this image for reference:
 </br></br>
 
-<img src="./images/justwayorder.png" alt="tap dimensions" width="auto" height="auto">
+<img src="./images/justwayorder.png" alt="justway logo" width="auto" height="auto">
 
 
 
@@ -104,6 +104,15 @@ See this image for reference:
 </br>
 </br>
 
+# Technical drawings
+
+Portal:
+</br>
+
+<img src="./images/justwayorder.png" alt="portal plate technical drawing" width="700px" height="auto">
+
+</br>
+</br>
 
 
 # Wiki (Work in progress)
