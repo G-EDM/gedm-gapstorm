@@ -14,6 +14,17 @@ Gapstorm Router
 </br>
 </br>
 
+# Updates
+
+07.07.2026 - Updated the links to the most recent freecad project file
+* Y-Bracket was missing the holes for the screws (fixed)
+* X Ballscrew changed to 400mm
+* X Linear rail changed to 300mm
+* Some minor changes on the X motor bracket for better assembly
+
+</br>
+</br>
+
 # FreeCAD project file
 
 [Download the G-EDM Gapstorm Router FreeCAD file](https://drive.google.com/file/d/148K86mym9E2TVZVjt0_lnEY2fuu9xe_t/view?usp=drive_link)
