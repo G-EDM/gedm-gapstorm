@@ -16,7 +16,7 @@ Gapstorm Router
 
 # FreeCAD project file
 
-[Download the G-EDM Gapstorm Router FreeCAD file](https://drive.google.com/file/d/1UKYZ6FvwNd2TUvjrRuUEfUdUrniMHqEN/view?usp=drive_link)
+[Download the G-EDM Gapstorm Router FreeCAD file](https://drive.google.com/file/d/148K86mym9E2TVZVjt0_lnEY2fuu9xe_t/view?usp=drive_link)
 </br>
 </br>
 
@@ -41,7 +41,7 @@ Gapstorm Router
 </br>
 </br>
 
-[Download the G-EDM Gapstorm Router FreeCAD file](https://drive.google.com/file/d/1UKYZ6FvwNd2TUvjrRuUEfUdUrniMHqEN/view?usp=drive_link)
+[Download the G-EDM Gapstorm Router FreeCAD file](https://drive.google.com/file/d/148K86mym9E2TVZVjt0_lnEY2fuu9xe_t/view?usp=drive_link)
 
 
 </br>
