@@ -25,6 +25,9 @@ Gapstorm Router
 12.07.2026 - Updated the links to the most recent freecad project file
 * Mountingbracket for the Y ballscrew support block has changed. It needs to be a little more flexible for adjustments. Replaced the hex nut with T-Nuts and made the screw holes longer.
 
+16.07.2026 - Updated the links to the most recent freecad project file
+* Changed the wire outlet. Tube moves now further down and the wire catch area is smaller. Ensure the inlet section is smooth and the 4mm tube goes all the way down.
+
 </br>
 </br>
 
