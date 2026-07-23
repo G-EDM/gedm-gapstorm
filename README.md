@@ -80,6 +80,15 @@ Gapstorm Router
 
 [Stainless steel backbone from justway.com](https://www.justway.com/project/shareproject/G_EDM_Gapstorm_Wire_Module_Backbone_82de4ce1.html)
 
+</br></br>
+
+# Sourcing the C-Arc backbone
+
+* Justway.com also sponsored the portal and it can be ordered with the link below
+
+[Aluminum portal from justway.com](https://www.justway.com/project/shareproject/G_EDM_Gapstorm_Portal_a3381aa9.html)
+
+
 </br>
 See this image for reference:
 </br></br>
